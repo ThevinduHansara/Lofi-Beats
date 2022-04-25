@@ -25,7 +25,7 @@ It is a discord bot bot which can play lofi song in different language 24/7. It 
 
 - Step 1
 
-If you are replit user then [Click Here](https://repl.it/github/diwasatreya/Lofi-Radio-Music-Bot)
+If you are replit user then [Click Here](https://repl.it/github/ThevinduHansara/Lofi-Beats)
 
 - Step 2 
 
